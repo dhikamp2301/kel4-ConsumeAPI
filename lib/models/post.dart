@@ -1,3 +1,5 @@
+import 'package:flutter/material.dart';
+
 class Post {
   final int userId;
   final int id;
